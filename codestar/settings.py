@@ -31,7 +31,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-brodsa-cidjangoblog-42cred4rbon.ws-eu104.gitpod.io']
+ALLOWED_HOSTS = ['8000-brodsa-cidjangoblog-42cred4rbon.ws-eu104.gitpod.io','ci-codestar-sg-66e5a05a09ba.herokuapp.com']
 
 
 # Application definition
